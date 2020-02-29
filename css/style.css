@@ -11,10 +11,10 @@ body {
 }
 
 .header {
-    padding-top: 20px;
-    padding-right: 5px;
-    padding-left: 5px;
-    padding-bottom: 60px;
+    padding-top: 70px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 90px;
 }
 
 .juls-logo {
@@ -32,21 +32,22 @@ body {
     box-sizing: border-box;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     justify-content: space-between;
     align-items: center;
 }
 
 .title-module {
-    width: 50%;
+    width: 650px;
 }
 
 .journal-title {
-    font-size: 58px;
+    font-size: 72px;
     font-weight: 300;
     text-transform: uppercase;
     color: #FAFAFA;
-    line-height: 1.2;
+    line-height: 1.3;
+    letter-spacing: 4px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -54,7 +55,8 @@ body {
 
 .menu {
     background-color: #FAFAFA;
-    font-size: 22px;
+    font-size: 28px;
+    font-weight: bold;
 }
 
 .menu-list {
@@ -106,7 +108,7 @@ body {
     width: 75%;
     background-color: #c5e1a5;
     padding: 10px 30px;
-    font-size: 19px;
+    font-size: 24px;
     line-height: 1.3;
 }
 
@@ -124,6 +126,7 @@ figure {
     background-color: #c5e1a5;
     width: 23%;
     padding: 10px 20px;
+    font-size: 18px;
 }
 
 .sidebar-title {
@@ -140,6 +143,7 @@ figure {
     display: block;
     text-align: center;
     color: darkgrey;
+    font-size: 18px;
     padding-bottom: 40px;
 }
 
