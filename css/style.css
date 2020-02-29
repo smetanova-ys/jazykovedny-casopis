@@ -84,7 +84,7 @@ body {
 .menu-item:hover {
     cursor: pointer;
     background-color: darkgray;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 .menu-link {
